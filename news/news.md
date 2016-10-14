@@ -5,6 +5,7 @@
 * [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/?from=timeline&isappinstalled=0)
 * [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
 * [2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop](http://image-net.org/challenges/ilsvrc+coco2016)
+* [https://deepmind.com/blog/differentiable-neural-computers/](https://deepmind.com/blog/differentiable-neural-computers/)
 
 ## Indurstry
 * [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
