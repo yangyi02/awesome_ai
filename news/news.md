@@ -9,3 +9,6 @@
 
 ## Indurstry
 * [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
+
+## Paper
+* [Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
