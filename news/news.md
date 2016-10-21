@@ -8,7 +8,7 @@
 * [Differentiable Neural Computers](https://deepmind.com/blog/differentiable-neural-computers/)
 
 ## Indurstry
-* [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
+* 2016.09.27 [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
 
 ## Paper
 * 2016.05.31 [Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
