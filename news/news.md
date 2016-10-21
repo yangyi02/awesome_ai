@@ -11,7 +11,7 @@
 * [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
 
 ## Paper
-* [Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
+* 2016.05.31 [Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
 
 ## Slides
 * 2016.04.19 [Human-level control through deep reinforcement learning](http://ir.hit.edu.cn/~jguo/docs/notes/dqn-atari.pdf)
