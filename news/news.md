@@ -15,6 +15,7 @@
 * 2016.05 [Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
 * 2016.03 [Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](https://arxiv.org/abs/1603.07954)
 * 2016.06 [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
+* 2016.06 [Sequence-to-Sequence Learning as Beam-Search Optimization](https://arxiv.org/abs/1606.02960)
 
 ## Slides
 * 2016.04 [Human-level control through deep reinforcement learning](http://ir.hit.edu.cn/~jguo/docs/notes/dqn-atari.pdf)
