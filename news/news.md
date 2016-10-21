@@ -6,6 +6,7 @@
 * 2016.10 [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
 * 2016.10 [2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop](http://image-net.org/challenges/ilsvrc+coco2016)
 * 2016.10 [Differentiable Neural Computers](https://deepmind.com/blog/differentiable-neural-computers/)
+* 2016.10 [EMNLP 2016 Best Paper Awards](http://www.emnlp2016.net/best-papers.html)
 
 ## Indurstry
 * 2016.09 [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
