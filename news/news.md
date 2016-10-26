@@ -1,6 +1,7 @@
 # Artificial Intelligence News
 
 ## Research
+* 2016.05 [Dilated Convolutions and Kronecker Factored Convolutions](http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 * 2016.09 [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 * 2016.10 [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/?from=timeline&isappinstalled=0)
 * 2016.10 [CVonline: Image Databases](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
