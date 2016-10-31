@@ -22,3 +22,6 @@
 
 ## Slides
 * 2016.04 [Human-level control through deep reinforcement learning](http://ir.hit.edu.cn/~jguo/docs/notes/dqn-atari.pdf)
+
+## Video
+* 2013.05 [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA)
