@@ -27,3 +27,6 @@
 
 ## Video
 * 2013.05 [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA)
+
+## Course
+* 2016.09 [CS229 Machine Learning](http://cs229.stanford.edu/)
