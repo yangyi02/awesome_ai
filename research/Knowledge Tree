@@ -1,0 +1,86 @@
+Artificial Intelligence
+
+Machine Learning
+
+Supervised Learning
+
+Reinforcement Learning
+
+Unsupervised Learning
+
+Optimization Method
+
+Stochastic Gradient Descent
+
+Nesterov's Accelerated Gradient (NAG) 
+
+Computer Vision
+
+Image Recognition
+
+Object Detection
+
+### Semantic Image Segmentation
+
+## Natural Language Processing
+
+### Image Captioning
+
+### Image Question Answering
+
+### Question Answering
+
+## Speech Recognition
+
+Neural Turing Machine (NTM)
+Memory Networks
+Dynamic Memory
+One Shot Learning
+Zero Shot Learning
+Long Short Term Memory (LSTM)
+Recurrent Neural Network (RNN)
+Deep Learning
+Logistic Regression
+Support Vector Machine (SVM)
+Convolutional Neural Network (CNN)
+K-Means
+Gaussian Mixture Model (GMM)
+Principal Component Analysis (PCA)
+Fisher Linear Discriminant
+Bias Variance Tradeoff
+Actor-Critic
+REINFORCE
+Policy Gradient
+Monte-Carlo Simulation
+Q Learning
+Markov Chain Monte Carlo (MCMC)
+Importance Sampling
+Gibbs Sampling
+VC Dimension
+Immitation Learning
+Apprentice Learning
+Inverse Reinforcement Learning
+Attention Model
+Recurrent Attention
+Visual Attention
+Transfer Learning
+Multi-Task Learning
+Weight Decay
+Regularization
+L2 Norm / L1 Norm
+Dropout
+Batch Normalization
+Beam Search
+Deep Learning System
+Caffe
+Cudnn
+PaddlePaddle
+Tensorflow
+Torch
+Scale Invariant Feature Transform (SIFT)
+Optical Flow
+Visual Tracking
+Boosting
+Random Forest
+Decision Tree
+
