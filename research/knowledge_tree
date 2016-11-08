@@ -1,37 +1,20 @@
-Artificial Intelligence
-
+Artificial Intelligence (AI)
 Machine Learning
-
 Supervised Learning
-
 Reinforcement Learning
-
 Unsupervised Learning
-
 Optimization Method
-
-Stochastic Gradient Descent
-
+Stochastic Gradient Descent (SGD)
 Nesterov's Accelerated Gradient (NAG) 
-
 Computer Vision
-
 Image Recognition
-
 Object Detection
-
-### Semantic Image Segmentation
-
-## Natural Language Processing
-
-### Image Captioning
-
-### Image Question Answering
-
-### Question Answering
-
-## Speech Recognition
-
+Semantic Image Segmentation
+Natural Language Processing (NLP)
+Visual Captioning
+Visual Question Answering (VQA)
+Question Answering (QA)
+Speech Recognition (SR)
 Neural Turing Machine (NTM)
 Memory Networks
 Dynamic Memory
@@ -47,7 +30,7 @@ K-Means
 Gaussian Mixture Model (GMM)
 Principal Component Analysis (PCA)
 Fisher Linear Discriminant
-Bias Variance Tradeoff
+Bias Variance Trade-off
 Actor-Critic
 REINFORCE
 Policy Gradient
