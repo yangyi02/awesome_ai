@@ -1,5 +1,6 @@
 Artificial Intelligence (AI)
 Machine Learning
+  AI -> Machine Learning
 Supervised Learning
 Reinforcement Learning
 Unsupervised Learning
@@ -66,4 +67,14 @@ Visual Tracking
 Boosting
 Random Forest
 Decision Tree
+Deep Reinforcement Learning
+Deep Convolutional Neural Network (DCNN)
+Gated Recurrent Unit (GRU)
+Momentum
+Adagrad
+Adadelta
+Rmsprop
+Adam
+Broyden–Fletcher–Goldfarb–Shanno Algorithm (BFGS)
+Limited-memory BFGS (LBFGS)
 
