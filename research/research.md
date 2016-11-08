@@ -32,7 +32,7 @@
 
 ## Speech Recognition
 
-Neural Turing Machine
+Neural Turing Machine (NTM)
 Memory Networks
 Dynamic Memory
 One Shot Learning
@@ -71,6 +71,7 @@ L2 Norm / L1 Norm
 Dropout
 Batch Normalization
 Beam Search
+Deep Learning System
 Caffe
 Cudnn
 PaddlePaddle
