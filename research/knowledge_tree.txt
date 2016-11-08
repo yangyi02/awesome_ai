@@ -2,31 +2,58 @@ Artificial Intelligence (AI)
 Machine Learning
   AI -> Machine Learning
 Supervised Learning
+  Machine Learning -> Supervised Learning
 Reinforcement Learning
+  Machine Learning -> Reinforcement Learning
 Unsupervised Learning
+  Machine Learning -> Unsupervised Learning
 Optimization Method
 Stochastic Gradient Descent (SGD)
-Nesterov's Accelerated Gradient (NAG) 
+  Optimization Method -> SGD
+Nesterov's Accelerated Gradient (NAG)
+  SGD -> NAG
 Computer Vision
+  AI -> Computer Vision
 Image Recognition
+  Computer Vision -> Image Recognition
 Object Detection
+  Computer Vision -> Object Detection
 Semantic Image Segmentation
+  Computer Vision -> Semantic Image Segmentation
 Natural Language Processing (NLP)
-Visual Captioning
-Visual Question Answering (VQA)
+  AI -> NLP
+Language Model
+  NLP -> Language Model
 Question Answering (QA)
-Speech Recognition (SR)
+  NLP -> QA
+Visual Captioning
+  Computer Vision -> Visual Captioning
+  Language Model -> Visual Captioning
+Visual Question Answering (VQA)
+  Computer Vision -> VQA
+  QA -> VQA
+Speech Recognition
+  AI -> Speech Recognition
 Neural Turing Machine (NTM)
 Memory Networks
 Dynamic Memory
 One Shot Learning
+  Supervised Learning -> One Shot Learning
 Zero Shot Learning
-Long Short Term Memory (LSTM)
-Recurrent Neural Network (RNN)
 Deep Learning
-Logistic Regression
-Support Vector Machine (SVM)
+  Machine Learning -> Deep Learning
+Deep Neural Network (DNN)
+  Deep Learning -> DNN
 Convolutional Neural Network (CNN)
+  DNN -> CNN
+Recurrent Neural Network (RNN)
+  DNN -> RNN
+Long Short Term Memory (LSTM)
+  RNN -> LSTM
+Logistic Regression
+  Supervised Learning -> Logistic Regression
+Support Vector Machine (SVM)
+  Supervised Learning -> SVM
 K-Means
 Gaussian Mixture Model (GMM)
 Principal Component Analysis (PCA)
