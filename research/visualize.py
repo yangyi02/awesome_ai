@@ -3,7 +3,20 @@ import io
 import logging
 logging.basicConfig(level=logging.INFO)
 
-if __name__ == '__main__':
+
+def parse_node(node):
+    if '(' in node and ')' in node:
+        items = node.strip().split('(')
+        assert len(items) == 2, 'node can contain a full name and one extra short name'
+        name = items[0].strip()
+        short_name = items[1].split(')')[0].strip()
+    else:
+        name = node.strip()
+        short_name = ''
+    return name, short_name
+
+
+def main():
     lines = io.open('knowledge_tree.txt', 'r').readlines()
     nodes = []
     edges = []
@@ -11,22 +24,16 @@ if __name__ == '__main__':
         logging.info('%s', line)
         if len(line.strip()) == 0:
             continue
-        elif '->' in line:  # an edge
-            items = line.strip().split('->')
-            assert len(items) == 2, 'edges should contain in nodes and a out node'
-            in_nodes = items[0].strip().split(',')
-            out_node = items[1].strip()
-            for in_node in in_nodes:
-                edges.append([in_node.strip(), out_node])
-        else:  # a node
-            if '(' in line and ')' in line:
-                items = line.strip().split('(')
-                assert len(items) == 2, 'node can contain a full name and one extra short name'
-                name = items[0].strip()
-                short_name = items[1].split(')')[0].strip()
-            else:
-                name = line.strip()
-                short_name = ''
+        elif '--' in line:  # line contains edges
+            items = line.strip().split('--')
+            assert len(items) == 2, 'data structure: name (short name) -- parent 1, parent 2, ...'
+            name, short_name = parse_node(items[0].strip())
+            nodes.append([name, short_name])
+            parent_nodes = items[1].strip().split(',')
+            for parent_node in parent_nodes:
+                edges.append([parent_node.strip(), name])
+        else:  # line contains only node
+            name, short_name = parse_node(line.strip())
             nodes.append([name, short_name])
 
     # Assign a unique id to each node
@@ -60,3 +67,7 @@ if __name__ == '__main__':
     handle.close()
 
     os.system('dot -Tpdf ai.dot > ai.pdf')
+
+
+if __name__ == '__main__':
+    main()

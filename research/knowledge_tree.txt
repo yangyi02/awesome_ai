@@ -4,7 +4,8 @@ Supervised Learning -- Machine Learning
 Reinforcement Learning -- Machine Learning
 Unsupervised Learning -- Machine Learning
 Optimization Method
-Stochastic Gradient Descent (SGD) -- Optimization Method
+Gradient Descent -- Optimization Method
+Stochastic Gradient Descent (SGD) -- Gradient Descent, Large Scale Algorithm
 Nesterov's Accelerated Gradient (NAG) -- SGD
 Computer Vision -- AI
 Image Recognition -- Computer Vision
@@ -29,8 +30,7 @@ Image Processing -- Signal Processing
 Convolution -- Image Processing
 Convolutional Neural Network (CNN) -- NN, Convolution
 Deep Convolutional Neural Network (DCNN) -- DNN, CNN
-Sequence Model -- Model
-Recurrent Neural Network (RNN) -- DNN, Sequence Model
+Recurrent Neural Network (RNN) -- DNN
 Long Short Term Memory (LSTM) -- RNN, Memory
 Logistic Regression -- Supervised Learning
 Support Vector Machine (SVM) -- Supervised Learning
@@ -63,8 +63,10 @@ L1 Norm -- Regularization
 L2 Norm -- Regularization
 Dropout
 Batch Normalization
-Beam Search -- Optimization, Algorithm
-Deep Learning System -- Deep Learning, System
+Computer Algorithm
+Beam Search -- Optimization Method, Computer Algorithm
+Computer System
+Deep Learning System -- Deep Learning, Computer System
 Caffe -- Deep Learning System
 Tensorflow -- Deep Learning System
 Representation Learning -- Machine Learning
@@ -87,5 +89,6 @@ Adadelta -- SGD
 Rmsprop -- SGD
 Adam -- SGD
 Broyden-Fletcher-Goldfarb-Shanno Algorithm (BFGS) -- Optimization Method
+Large Scale Algorithm -- Computer Algorithm
 Limited-memory BFGS (LBFGS) -- BFGS, Large Scale Algorithm
 
