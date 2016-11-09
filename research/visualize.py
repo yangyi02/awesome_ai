@@ -1,6 +1,7 @@
 import os
 import io
 import logging
+import argparse
 logging.basicConfig(level=logging.INFO)
 
 
@@ -16,8 +17,7 @@ def parse_node(node):
     return name, short_name
 
 
-def main():
-    lines = io.open('knowledge_graph.txt', 'r').readlines()
+def parse_lines(lines):
     nodes = []
     edges = []
     for line in lines:
@@ -35,7 +35,10 @@ def main():
         else:  # line contains only node
             name, short_name = parse_node(line.strip())
             nodes.append([name, short_name])
+    return nodes, edges
 
+
+def create_node_id(nodes):
     # Assign a unique id to each node
     node_ids = {}
     for node in nodes:
@@ -47,9 +50,12 @@ def main():
         name = name.replace("'", '_')
         node_ids[node[0]] = name
         node_ids[node[1]] = name
+    return node_ids
 
+
+def write_to_dot_file(file_name, nodes, edges, node_ids):
     # Write to a dot file
-    handle = open('ai.dot', 'w')
+    handle = open(file_name, 'w')
     handle.write('digraph {' + '\n')
     for node in nodes:
         node_str = '\t' + node_ids[node[0]] + ' [label = "' + node[0]
@@ -66,7 +72,19 @@ def main():
     handle.write('}')
     handle.close()
 
-    os.system('dot -Tpdf ai.dot > ai.pdf')
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input_file', default='knowledge_graph.txt')
+    parser.add_argument('--output_dot_file', default='ai.dot')
+    parser.add_argument('--output_pdf_file', default='ai.pdf')
+    args = parser.parse_args()
+
+    lines = io.open(args.input_file, 'r').readlines()
+    nodes, edges = parse_lines(lines)
+    node_ids = create_node_id(nodes)
+    write_to_dot_file(args.output_dot_file, nodes, edges, node_ids)
+    os.system('dot -Tpdf ' + args.output_dot_file + ' > ' + args.output_pdf_file)
 
 
 if __name__ == '__main__':
