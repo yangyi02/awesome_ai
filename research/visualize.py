@@ -1,11 +1,14 @@
 import os
 import io
+import logging
+logging.basicConfig(level=logging.INFO)
 
 if __name__ == '__main__':
     lines = io.open('knowledge_tree.txt', 'r').readlines()
     nodes = []
     edges = []
     for line in lines:
+        logging.info('%s', line)
         if len(line.strip()) == 0:
             continue
         elif '->' in line:  # an edge
@@ -54,5 +57,6 @@ if __name__ == '__main__':
         edge_str = '\t' + node_ids[edge[0]] + ' -> ' + node_ids[edge[1]] + ';' + '\n'
         handle.write(edge_str)
     handle.write('}')
+    handle.close()
 
     os.system('dot -Tpdf ai.dot > ai.pdf')

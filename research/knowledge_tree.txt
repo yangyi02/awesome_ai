@@ -27,11 +27,9 @@ Language Model
 Question Answering (QA)
   NLP -> QA
 Visual Captioning
-  Computer Vision -> Visual Captioning
-  Language Model -> Visual Captioning
+  Computer Vision, Language Model -> Visual Captioning
 Visual Question Answering (VQA)
-  Computer Vision -> VQA
-  QA -> VQA
+  Computer Vision, QA -> VQA
 Speech Recognition
   AI -> Speech Recognition
 Neural Turing Machine (NTM)
@@ -41,11 +39,15 @@ One Shot Learning
   Supervised Learning -> One Shot Learning
 Zero Shot Learning
 Deep Learning
-  Machine Learning -> Deep Learning
+  Representation Learning -> Deep Learning
 Deep Neural Network (DNN)
-  Deep Learning -> DNN
+  Deep Learning, NN -> DNN
+Neural Network (NN)
+  Machine Learning -> NN
 Convolutional Neural Network (CNN)
-  DNN -> CNN
+  NN -> CNN
+Deep Convolutional Neural Network (DCNN)
+  DNN, CNN -> DCNN
 Recurrent Neural Network (RNN)
   DNN -> RNN
 Long Short Term Memory (LSTM)
@@ -55,21 +57,30 @@ Logistic Regression
 Support Vector Machine (SVM)
   Supervised Learning -> SVM
 K-Means
+  Unsupervised Learning -> K-Means
 Gaussian Mixture Model (GMM)
+  Unsupervised Learning -> GMM
 Principal Component Analysis (PCA)
+  Unsupervised Learning -> PCA
 Fisher Linear Discriminant
+  Supervised Learning -> Fisher Linear Discriminant
 Bias Variance Trade-off
+  Supervised Learning -> Bias Variance Trade-off
 Actor-Critic
-REINFORCE
+  Reinforcement Learning -> Actor-Critic
 Policy Gradient
-Monte-Carlo Simulation
+  Reinforcement Learning -> Policy Gradient
+REINFORCE
+  Policy Gradient -> REINFORCE
 Q Learning
+  Reinforcement Learning -> Q Learning
+Monte-Carlo Simulation
 Markov Chain Monte Carlo (MCMC)
 Importance Sampling
 Gibbs Sampling
 VC Dimension
-Immitation Learning
-Apprentice Learning
+Imitation Learning (Apprentice Learning)
+  Reinforcement Learning, Supervised Learning -> Imitation Learning
 Inverse Reinforcement Learning
 Attention Model
 Recurrent Attention
@@ -83,25 +94,46 @@ Dropout
 Batch Normalization
 Beam Search
 Deep Learning System
+  Deep Learning -> Deep Learning System
 Caffe
-Cudnn
-PaddlePaddle
+  Deep Learning System -> Caffe
 Tensorflow
-Torch
+  Deep Learning System -> Tensorflow
+Representation Learning
+  Machine Learning -> Representation Learning
+Feature Representation
+  Representation Learning -> Feature Representation
+Image Feature
+  Feature Representation -> Image Feature
 Scale Invariant Feature Transform (SIFT)
+  Image Feature -> SIFT
+Histogram of Oriented Gradient (HOG)
+  Image Feature -> HOG
 Optical Flow
+  Computer Vision -> Optical Flow
 Visual Tracking
+  Computer Vision -> Visual Tracking
 Boosting
+  Machine Learning -> Boosting
+Adaptive Boosting (AdaBoost)
+  Boosting -> AdaBoost
 Random Forest
 Decision Tree
 Deep Reinforcement Learning
-Deep Convolutional Neural Network (DCNN)
+  Deep Learning, Reinforcement Learning -> Deep Reinforcement Learning
 Gated Recurrent Unit (GRU)
+  RNN -> GRU
 Momentum
 Adagrad
+  SGD -> Adagrad
 Adadelta
+  SGD -> Adadelta
 Rmsprop
+  SGD -> Rmsprop
 Adam
-Broyden–Fletcher–Goldfarb–Shanno Algorithm (BFGS)
+  SGD -> Adam
+Broyden-Fletcher-Goldfarb-Shanno Algorithm (BFGS)
+  Optimization Method -> BFGS
 Limited-memory BFGS (LBFGS)
+  BFGS -> LBFGS
 
