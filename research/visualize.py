@@ -17,7 +17,7 @@ def parse_node(node):
 
 
 def main():
-    lines = io.open('knowledge_tree.txt', 'r').readlines()
+    lines = io.open('knowledge_graph.txt', 'r').readlines()
     nodes = []
     edges = []
     for line in lines:
