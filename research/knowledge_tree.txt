@@ -1,139 +1,91 @@
 Artificial Intelligence (AI)
-Machine Learning
-  AI -> Machine Learning
-Supervised Learning
-  Machine Learning -> Supervised Learning
-Reinforcement Learning
-  Machine Learning -> Reinforcement Learning
-Unsupervised Learning
-  Machine Learning -> Unsupervised Learning
+Machine Learning -- AI
+Supervised Learning -- Machine Learning
+Reinforcement Learning -- Machine Learning
+Unsupervised Learning -- Machine Learning
 Optimization Method
-Stochastic Gradient Descent (SGD)
-  Optimization Method -> SGD
-Nesterov's Accelerated Gradient (NAG)
-  SGD -> NAG
-Computer Vision
-  AI -> Computer Vision
-Image Recognition
-  Computer Vision -> Image Recognition
-Object Detection
-  Computer Vision -> Object Detection
-Semantic Image Segmentation
-  Computer Vision -> Semantic Image Segmentation
-Natural Language Processing (NLP)
-  AI -> NLP
-Language Model
-  NLP -> Language Model
-Question Answering (QA)
-  NLP -> QA
-Visual Captioning
-  Computer Vision, Language Model -> Visual Captioning
-Visual Question Answering (VQA)
-  Computer Vision, QA -> VQA
-Speech Recognition
-  AI -> Speech Recognition
-Neural Turing Machine (NTM)
-Memory Networks
-Dynamic Memory
-One Shot Learning
-  Supervised Learning -> One Shot Learning
-Zero Shot Learning
-Deep Learning
-  Representation Learning -> Deep Learning
-Deep Neural Network (DNN)
-  Deep Learning, NN -> DNN
-Neural Network (NN)
-  Machine Learning -> NN
-Convolutional Neural Network (CNN)
-  NN -> CNN
-Deep Convolutional Neural Network (DCNN)
-  DNN, CNN -> DCNN
-Recurrent Neural Network (RNN)
-  DNN -> RNN
-Long Short Term Memory (LSTM)
-  RNN -> LSTM
-Logistic Regression
-  Supervised Learning -> Logistic Regression
-Support Vector Machine (SVM)
-  Supervised Learning -> SVM
-K-Means
-  Unsupervised Learning -> K-Means
-Gaussian Mixture Model (GMM)
-  Unsupervised Learning -> GMM
-Principal Component Analysis (PCA)
-  Unsupervised Learning -> PCA
-Fisher Linear Discriminant
-  Supervised Learning -> Fisher Linear Discriminant
-Bias Variance Trade-off
-  Supervised Learning -> Bias Variance Trade-off
-Actor-Critic
-  Reinforcement Learning -> Actor-Critic
-Policy Gradient
-  Reinforcement Learning -> Policy Gradient
-REINFORCE
-  Policy Gradient -> REINFORCE
-Q Learning
-  Reinforcement Learning -> Q Learning
-Monte-Carlo Simulation
+Stochastic Gradient Descent (SGD) -- Optimization Method
+Nesterov's Accelerated Gradient (NAG) -- SGD
+Computer Vision -- AI
+Image Recognition -- Computer Vision
+Object Detection -- Computer Vision
+Semantic Image Segmentation -- Computer Vision
+Natural Language Processing (NLP) -- AI
+Language Model -- NLP
+Question Answering (QA) -- NLP
+Visual Captioning -- Computer Vision, Language Model
+Visual Question Answering (VQA) -- Computer Vision, QA
+Speech Recognition -- AI
+Memory
+Memory Network -- RNN, Memory
+Neural Turing Machine (NTM) -- RNN, Memory Network
+One Shot Learning -- Supervised Learning
+Zero Shot Learning -- Supervised Learning
+Deep Learning -- Representation Learning
+Neural Network (NN) -- Machine Learning
+Deep Neural Network (DNN) -- Deep Learning, NN
+Signal Processing
+Image Processing -- Signal Processing
+Convolution -- Image Processing
+Convolutional Neural Network (CNN) -- NN, Convolution
+Deep Convolutional Neural Network (DCNN) -- DNN, CNN
+Sequence Model -- Model
+Recurrent Neural Network (RNN) -- DNN, Sequence Model
+Long Short Term Memory (LSTM) -- RNN, Memory
+Logistic Regression -- Supervised Learning
+Support Vector Machine (SVM) -- Supervised Learning
+K-Means -- Unsupervised Learning
+Gaussian Mixture Model (GMM) -- Unsupervised Learning
+Principal Component Analysis (PCA) -- Unsupervised Learning
+Fisher Linear Discriminant -- Supervised Learning
+Learning Theory -- Machine Learning
+Bias Variance Trade-off -- Learning Theory
+Actor-Critic -- Reinforcement Learning
+Policy Gradient -- Reinforcement Learning
+REINFORCE -- Policy Gradient
+Q Learning -- Reinforcement Learning
+Sampling Method
+Monte Carlo Simulation
 Markov Chain Monte Carlo (MCMC)
-Importance Sampling
-Gibbs Sampling
-VC Dimension
-Imitation Learning (Apprentice Learning)
-  Reinforcement Learning, Supervised Learning -> Imitation Learning
-Inverse Reinforcement Learning
-Attention Model
-Recurrent Attention
-Visual Attention
-Transfer Learning
-Multi-Task Learning
-Weight Decay
-Regularization
-L2 Norm / L1 Norm
+Importance Sampling -- Sampling Method
+Gibbs Sampling -- Sampling Method
+VC Dimension -- Learning Theory
+Imitation Learning (Apprentice Learning) -- Reinforcement Learning, Supervised Learning
+Inverse Reinforcement Learning -- Reinforcement Learning
+Attention Model -- NN
+Recurrent Attention -- RNN, Attention Model
+Visual Attention -- Attention Model, Computer Vision
+Transfer Learning -- Machine Learning
+Multi-Task Learning -- Machine Learning
+Weight Decay -- Regularization
+Regularization -- Learning Theory
+L1 Norm -- Regularization
+L2 Norm -- Regularization
 Dropout
 Batch Normalization
-Beam Search
-Deep Learning System
-  Deep Learning -> Deep Learning System
-Caffe
-  Deep Learning System -> Caffe
-Tensorflow
-  Deep Learning System -> Tensorflow
-Representation Learning
-  Machine Learning -> Representation Learning
-Feature Representation
-  Representation Learning -> Feature Representation
-Image Feature
-  Feature Representation -> Image Feature
-Scale Invariant Feature Transform (SIFT)
-  Image Feature -> SIFT
-Histogram of Oriented Gradient (HOG)
-  Image Feature -> HOG
-Optical Flow
-  Computer Vision -> Optical Flow
-Visual Tracking
-  Computer Vision -> Visual Tracking
-Boosting
-  Machine Learning -> Boosting
-Adaptive Boosting (AdaBoost)
-  Boosting -> AdaBoost
-Random Forest
-Decision Tree
-Deep Reinforcement Learning
-  Deep Learning, Reinforcement Learning -> Deep Reinforcement Learning
-Gated Recurrent Unit (GRU)
-  RNN -> GRU
+Beam Search -- Optimization, Algorithm
+Deep Learning System -- Deep Learning, System
+Caffe -- Deep Learning System
+Tensorflow -- Deep Learning System
+Representation Learning -- Machine Learning
+Feature Representation -- Representation Learning
+Image Feature -- Feature Representation, Computer Vision
+Scale Invariant Feature Transform (SIFT) -- Image Feature
+Histogram of Oriented Gradient (HOG) -- Image Feature
+Optical Flow -- Computer Vision
+Visual Tracking -- Computer Vision
+Ensemble Learning -- Machine Learning
+Boosting -- Ensemble Learning
+Adaptive Boosting (AdaBoost) -- Boosting
+Random Forest -- Decision Tree, Ensemble Learning
+Decision Tree -- Supervised Learning
+Deep Reinforcement Learning -- Deep Learning, Reinforcement Learning
+Gated Recurrent Unit (GRU) -- RNN
 Momentum
-Adagrad
-  SGD -> Adagrad
-Adadelta
-  SGD -> Adadelta
-Rmsprop
-  SGD -> Rmsprop
-Adam
-  SGD -> Adam
-Broyden-Fletcher-Goldfarb-Shanno Algorithm (BFGS)
-  Optimization Method -> BFGS
-Limited-memory BFGS (LBFGS)
-  BFGS -> LBFGS
+Adagrad -- SGD
+Adadelta -- SGD
+Rmsprop -- SGD
+Adam -- SGD
+Broyden-Fletcher-Goldfarb-Shanno Algorithm (BFGS) -- Optimization Method
+Limited-memory BFGS (LBFGS) -- BFGS, Large Scale Algorithm
 
