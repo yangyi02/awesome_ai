@@ -13,6 +13,7 @@
 ## Indurstry
 * 2016.09 [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
 * 2016.11 [DeepMind and Blizzard to release StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/)
+* 2016.11 [What Artificial Intelligence Can and Can’t Do Right Now](https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now)
 
 ## Paper
 * 2016.09 [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
