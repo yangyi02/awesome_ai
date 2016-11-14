@@ -24,6 +24,7 @@
 * 2016.06 [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
 * 2016.06 [Sequence-to-Sequence Learning as Beam-Search Optimization](https://arxiv.org/abs/1606.02960)
 * 2015.11 [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)
+* 2016.11 [Learning to Act by Predicting the Future](https://128.84.21.199/abs/1611.01779)
 
 ## Slides
 * 2016.04 [Human-level control through deep reinforcement learning](http://ir.hit.edu.cn/~jguo/docs/notes/dqn-atari.pdf)
