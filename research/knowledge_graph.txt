@@ -102,3 +102,7 @@ Non-parametric Model
 Meta Learning
 Rapid Learning -- Meta Learning
 Learning to Learn -- Meta Learning
+Action Value Method
+N-Armed Bandit
+Deep Q Learning - Q Learning, Deep Learning
+Atari Game - Game
