@@ -9,11 +9,13 @@
 * 2016.10 [EMNLP 2016 Best Paper Awards](http://www.emnlp2016.net/best-papers.html)
 * 2016.10 [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md)
 * 2016.08 [Teaching Your Computer To Play Super Mario Bros. – A Fork of the Google DeepMind Atari Machine Learning Project](http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/)
+* 2016.11 [Object Detection using Deep Learning for advanced users (Part-1)](https://www.linkedin.com/pulse/object-detection-using-deep-learning-advanced-users-part-1-sinhal)
 
 ## Indurstry
 * 2016.09 [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
 * 2016.11 [DeepMind and Blizzard to release StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/)
 * 2016.11 [What Artificial Intelligence Can and Can’t Do Right Now](https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now)
+* 2016.11 [Image Segmentation Using DIGITS 5](https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/)
 
 ## Paper
 * 2016.09 [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
