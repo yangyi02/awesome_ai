@@ -8,6 +8,7 @@ Gradient Descent -- Optimization Method
 Stochastic Gradient Descent (SGD) -- Gradient Descent, Large Scale Algorithm
 Nesterov's Accelerated Gradient (NAG) -- SGD
 Computer Vision -- AI
+Games -- AI
 Image Recognition -- Computer Vision
 Object Detection -- Computer Vision
 Semantic Image Segmentation -- Computer Vision
@@ -18,7 +19,7 @@ Visual Captioning -- Computer Vision, Language Model
 Visual Question Answering (VQA) -- Computer Vision, QA
 Speech Recognition -- AI
 Memory
-Memory Network -- RNN, Memory
+Memory Network -- RNN, External Memory
 Neural Turing Machine (NTM) -- RNN, Memory Network
 One Shot Learning -- Supervised Learning
 Zero Shot Learning -- Supervised Learning
@@ -91,4 +92,13 @@ Adam -- SGD
 Broyden-Fletcher-Goldfarb-Shanno Algorithm (BFGS) -- Optimization Method
 Large Scale Algorithm -- Computer Algorithm
 Limited-memory BFGS (LBFGS) -- BFGS, Large Scale Algorithm
-
+External Memory -- Memory
+Internal Memory -- Memory
+Incremental Training
+Inference -- Machine Learning
+Motor Control -- Robotics, Control
+Abstract Concepts
+Non-parametric Model
+Meta Learning
+Rapid Learning -- Meta Learning
+Learning to Learn -- Meta Learning
