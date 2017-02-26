@@ -106,3 +106,8 @@ Action Value Method
 N-Armed Bandit
 Deep Q Learning - Q Learning, Deep Learning
 Atari Game - Game
+Value Function
+Advantage Function
+Action Value Function
+On Policy Learning
+Off Policy Learning
