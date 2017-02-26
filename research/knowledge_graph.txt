@@ -111,3 +111,5 @@ Advantage Function
 Action Value Function
 On Policy Learning
 Off Policy Learning
+Trust Region Method
+Levenberg Marquardt Algorithm
