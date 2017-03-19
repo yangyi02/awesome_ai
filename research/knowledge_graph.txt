@@ -120,3 +120,18 @@ Structured Prediction
 Reinforcement Learning
 Large-Scale Learning
 Non-convex Optimization
+Unsupervised Representation Learning
+Semi-supervised Representation Learning
+Supervised Representation Learning
+Representation Learning for Planning and Reinforcement Learning
+Kernel Learning
+Sparse Coding
+Dimensionality Expansion
+Hierarchical Models
+Optimization for Representation Learning
+Learning Representations of Outputs or States
+Parallelization
+Software Platforms
+Hardware
+Robotics
+Neuroscience
