@@ -135,3 +135,102 @@ Software Platforms
 Hardware
 Robotics
 Neuroscience
+3D Modeling and Reconstruction - 3D Computer Vision
+Stereo Vision - 3D Computer Vision
+Calibration and Pose Estimation - 3D Computer Vision
+Structure from Motion - 3D Computer Vision
+Scene Analysis from Depth Camera - 3D Computer Vision
+3D Computer Vision - Computer Vision
+Biomedical Image Registration - Biomedical Image Analysis
+Computational Anatomy - Biomedical Image Analysis
+Biomedical Image Segmentation - Biomedical Image Analysis
+Biomedical Image Analysis - Computer Vision
+Computational Photography
+Photometric Modeling - Computational Photography
+Shape From Focus, Refraction, Shading, Specularities, Shadows, Texture - Computational Modeling
+Sensors, Cameras and Display - Computational Photography
+Computational Photography - Computer Vision
+Face and Gesture Analysis - Computer Vision
+Biometrics - Face and Gesture Analysis
+Face Recognition - Face and Gesture Analysis
+Body Motion Analysis - Face and Gesture Analysis
+Gesture Analysis - Face and Gesture Analysis
+Face Detection and Head Tracking - Face and Gesture Analysis
+Human Identification - Face and Gesture Analysis
+Low-level Vision - Computer Vision
+Image Processing
+Biologically-inspired Vision - Computer Vision
+Feature Extraction and Matching - Low-level Vision
+Color Processing - Image Processing
+Image Enhancement and Matching - Low-level Vision
+De-blurring and Super-resolution - Low-level Vision
+Saliency - Low-level Vision
+Denoising - Low-level Vision
+Texture Analysis and Synthesis - Low-level Vision
+Edge and Contour Detection - Low-level Vision
+Montion and Tracking - Computer Vision
+Articulated Tracking - Motion and Tracking
+Object Tracking and Motion Analysis - Motion and Tracking
+Image Alignment and Registration - Motion and Tracking
+Optical Flow - Motion and Tracking
+Model-based Reconstruction and Tracking - Motion and Tracking
+People Tracking - Motion and Tracking
+Multi-object Tracking - Motion and Tracking
+Trajectory Prediction and Activity Forecasting - Motion and Tracking
+Continuous Optimization - Optimization
+Large Scale Optimization - Optimization
+Discrete Optimization - Optimization
+Partial Differential Equations - Optimization
+Variational Methods - Optimization
+Inference in Graphical Models - Optimization
+Sparse Coding and Dictionaries - Optimization
+Image Recognition
+3D Representations for Recognition - Image Recognition
+Images and Language - Image Recognition
+Attributes Recognition - Image Recognition
+Object Instance Detection and Recognition - Image Recognition
+Context-based Recognition - Image Recognition
+Large Scale Visual Recognition - Image Recognition
+Feature Extraction and Description - Image Recognition
+Object Class Detection and Recognition - Image Recognition
+Feature Matching and Indexing - Image Recognition
+Object Mining and Discovery - Image Recognition
+Fine-grained Recognition - Image Recognition
+Person and Face Detection - Image Recognition
+Human Pose Estimation - Image Recognition
+Scene and Image Classification - Image Recognition
+Image Indexing and Retrieval - Image Recognition
+Scene Understanding - Image Recognition
+Segmentation, Grouping and Shape Representation
+Edge and Contour Analysis - Segmentation, Grouping and Shape Representation
+Semantic Image Segmentation - Segmentation, Grouping and Shape Representati
+Grouping - Segmentation, Grouping and Shape Representati
+Shape Representation and Matching - Segmentation, Grouping and Shape Representati
+Image Segmentation - Segmentation, Grouping and Shape Representati
+Statistical Methods and Learning
+Bayesian Modeling - Statistical Methods and Learning
+Semi-supervised Learning - Statistical Methods and Learning
+Supervised Learning - Statistical Methods and Learning
+Unsupervised Learning - Statistical Methods and Learning
+Deep Learning and Convolutional Neural Networks - Statistical Methods and Learning
+Dimensionality Reduction - Statistical Methods and Learning
+Matrix Factorization - Statistical Methods and Learning
+Manifold Learning - Statistical Methods and Learning
+Manifold Clustering - Statistical Methods and Learning
+Kernel Methods - Statistical Methods and Learning
+Large Scale Learning Methods - Statistical Methods and Learning
+Video: Events, Activities and Surveillance
+Events, Actions and Activity Recognition - Video: Events, Activities and Surveillance
+Video Indexing and Retrieval - Video: Events, Activities and Surveillance
+Semantic Video Segmentation - Video: Events, Activities and Surveillance
+Video Segmentation - Video: Events, Activities and Surveillance
+Video and Language - Video: Events, Activities and Surveillance
+Video Surveillance - Video: Events, Activities and Surveillance
+Video Content Description and Captioning - Video: Events, Activities and Surveillance
+Vision for X
+Document Analysis - Vision for X
+Vision for Robotics - Vision for X
+Vision for Autonomous Driving - Vision for X
+Vision for the Web - Vision for X
+Vision for Graphics - Vision for X
+
