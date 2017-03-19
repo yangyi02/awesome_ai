@@ -234,3 +234,65 @@ Vision for Autonomous Driving - Vision for X
 Vision for the Web - Vision for X
 Vision for Graphics - Vision for X
 
+Deep Learning or Neural Networks
+Large Scale Learning and Big Data
+Convex Optimization
+Clustering
+Learning Theory
+Graphical Models 
+Online Learning
+Sparsity and Feature Selection
+Reinforcement Learning Algorithms
+Kernel Methods
+Matrix Factorization
+Bandit Algorithms
+Component Analysis (ICA, PCA, CCA, FLDA)
+Stochastic Methods
+Gaussian Processes
+Markov Chain Monte Carlo (MCMC)
+Nonlinear Dimension Reduction and Manifold Learning
+Time Series Analysis
+Model Selection and Structure Learning
+Multi-task and Transfer Learning
+Bayesian Nonparametrics
+Spectral Methods
+Variational Inference
+Combinatorial Optimization
+Semi-Supervised Learning
+Structured Prediction
+Ensemble Methods and Boosting
+Graph-based Learning
+Active Learning
+Ranking and Preference Learning
+Similarity and Distance Learning
+Information Theory
+Game Theory and Econometrics
+Regularization and Large Margin Methods 
+Causality 
+(Application) Object and Pattern Recognition
+(Application) Computer Vision
+(Application) Natural Language and Text Processing
+(Application) Signal and Speech Processing
+(Application) Social Networks
+(Application) Information Retrieval
+(Application) Web Applications and Internet Data
+(Application) Collaborative Filtering and Recommender Systems
+(Application) Privacy, Anonymity, and Security
+(Application) Bioinformatics and Systems Biology
+(Cognitive/Neuroscience) Perception
+(Cognitive/Neuroscience) Neural Coding
+(Cognitive/Neuroscience) Theoretical Neuroscience
+(Cognitive/Neuroscience) Reinforcement Learning
+(Cognitive/Neuroscience) Language
+(Other) Classification
+(Other) Regression
+(Other) Optimization
+(Other) Probabilistic Models and Methods
+(Other) Machine Learning Topics
+(Other) Unsupervised Learning Methods
+(Other) Applications
+(Other) Cognitive Science
+(Other) Bayesian Inference
+(Other) Neuroscience
+(Other) Statistics
+(Other) Robotics and Control
