@@ -113,3 +113,10 @@ On Policy Learning
 Off Policy Learning
 Trust Region Method
 Levenberg Marquardt Algorithm
+Feature Learning
+Metric Learning
+Compositional Modeling
+Structured Prediction
+Reinforcement Learning
+Large-Scale Learning
+Non-convex Optimization
