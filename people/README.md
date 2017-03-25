@@ -1,12 +1,13 @@
 # Giants in Computer Vision and Machine Learning
 
-This is aiming for a repository of the top Computer Vision and Machine Learning giants based on my own personal knowledge. 
-You can check `ai_giants.md` for more details.
-You can also use `python md2html.py` to generate the new ai_giants.html file.
+Please check `ai_giants.md` for more details.
+You can also use `python md2html.py` to generate an ai_giants.html file.
 
-In case of incorrect information, please feel free to provide a pull request here.
+NOTE: This is simply a personal memory of the top Computer Vision and Machine Learning giants based on my own experience. Hence many top giants are not shown up in the list. In case of incorrect information, please feel free to modify `ai_giants.md` and provide a pull request here.
 
-Besides my list, [Google Scholar](https://scholar.google.com/) also provides a full list of top scholars in each research area. 
+# Awesome Google Scholar
+
+My list is a really narrow view of top researchers. [Google Scholar](https://scholar.google.com/) provides a full list of top scholars in each research area. 
 
 - [Computer Vision Giants](https://scholar.google.com/citations?mauthors=label%3Acomputer_vision&hl=en&view_op=search_authors)
 - [Machine Learning Giants](https://scholar.google.com/citations?mauthors=label%3Amachine_learning&hl=en&view_op=search_authors)
