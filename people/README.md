@@ -6,7 +6,7 @@ NOTE: This is simply a personal memory of the top Computer Vision and Machine Le
 
 In case of incorrect information, please feel free to modify [ai_giants.md](https://github.com/yangyi02/awesome_ai/blob/master/people/ai_giants.md) and provide a pull request. 
 
-You can also use `python md2html.py` to generate an [ai_giants.html](https://github.com/yangyi02/awesome_ai/blob/master/people/ai_giants.html).
+You can also use `python md2html.py` to generate [ai_giants.html](https://github.com/yangyi02/awesome_ai/blob/master/people/ai_giants.html).
 
 # Awesome Google Scholar
 
