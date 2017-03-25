@@ -1,7 +1,8 @@
+# Giants in Computer Vision and Machine Learning
 
-This is a repository of top Computer Vision and Machine Learning giants based on my own personal knowledge. 
-You can check "ai_giants.md" for more details.
-You can also use "python md2html.py" to generate the new ai_giants.html file.
+This is aiming for a repository of the top Computer Vision and Machine Learning giants based on my own personal knowledge. 
+You can check `ai_giants.md` for more details.
+You can also use `python md2html.py` to generate the new ai_giants.html file.
 
 In case of incorrect information, please feel free to provide a pull request here.
 
