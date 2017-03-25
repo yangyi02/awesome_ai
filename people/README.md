@@ -1,4 +1,4 @@
-Just decide to stop the maintenance since Google Scholar can provide a full list of scholars in each research area. 
+Just decide to stop the maintenance of Computer Vision Giants since Google Scholar can provide a full list of scholars in this area. 
 
 - [Computer Vision Giants](https://scholar.google.com/citations?mauthors=label%3Acomputer_vision&hl=en&view_op=search_authors)
 - [Machine Learning Giants](https://scholar.google.com/citations?mauthors=label%3Amachine_learning&hl=en&view_op=search_authors)
