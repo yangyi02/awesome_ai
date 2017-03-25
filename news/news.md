@@ -11,7 +11,7 @@
 * 2016.08 [Teaching Your Computer To Play Super Mario Bros. – A Fork of the Google DeepMind Atari Machine Learning Project](http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/)
 * 2016.11 [Object Detection using Deep Learning for advanced users (Part-1)](https://www.linkedin.com/pulse/object-detection-using-deep-learning-advanced-users-part-1-sinhal)
 
-## Indurstry
+## Industry
 * 2016.09 [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
 * 2016.11 [DeepMind and Blizzard to release StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/)
 * 2016.11 [What Artificial Intelligence Can and Can’t Do Right Now](https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now)
