@@ -68,9 +68,10 @@
 - [Michael Jordan](http://www.cs.berkeley.edu/~jordan/) University of California Berkeley
 - [Michael Maire](http://ttic.uchicago.edu/~mmaire/) Toyota Technological Institute at Chicago
 - [Mubarak Shah](http://crcv.ucf.edu/people/faculty/shah.html) University of Central Florida
+- [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/) Oxford University & Google DeepMind
 - [Pedro Felzenszwalb](http://cs.brown.edu/~pff/) Brown University
 - [Philip Torr](http://cms.brookes.ac.uk/staff/PhilipTorr/) University of Oxford Brookes
-- [Piotr Dollar](http://vision.ucsd.edu/~pdollar/) Facebook AI Research
+- [Piotr Dollar](https://pdollar.github.io/) Facebook AI Research
 - [Ram Nevatia](http://iris.usc.edu/people/nevatia/) University of Southern California
 - [Richard Sutton](http://incompleteideas.net/sutton/) University of Alberta
 - [Richard Szeliski](http://research.microsoft.com/en-us/um/people/szeliski/) Microsoft Research
@@ -112,4 +113,3 @@
 - [Zhengyou Zhang](http://research.microsoft.com/en-us/um/people/zhang/) Microsoft Research
 - [Zhuowen Tu](http://pages.ucsd.edu/~ztu/) University of California San Diego
 - [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) University of Cambridge
-- []() 

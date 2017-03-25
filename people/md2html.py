@@ -1,4 +1,5 @@
 import re
+import urllib2
 
 template_lines = open('template.html').readlines()
 
@@ -8,6 +9,11 @@ data = []
 for line in lines:
    if line.startswith('-'):
       pattern = re.findall(r'- \[(.*)\]\((.*)\) (.*)', line)
+      print('testing url: %s' % pattern[0][1])
+      try:
+         urllib2.urlopen(pattern[0][1])
+      except urllib2.HTTPError:
+         pass
       data.append([pattern[0][0], pattern[0][1], pattern[0][2]])
 
 with open('ai_giants.html', 'w') as handle:
