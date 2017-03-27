@@ -27,6 +27,7 @@
 | [Charless Fowlkes](http://www.ics.uci.edu/~fowlkes/) | University of California Irvine |
 | [Chris Harrison](http://www.chrisharrison.net/index.php/Research/Welcome) | Carnegie Mellon University |
 | [Christian Szegedy](http://research.google.com/pubs/ChristianSzegedy.html) | Google Research |
+| [Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/) | Microsoft Research Cambridge |
 | [Christopher Manning](http://nlp.stanford.edu/manning/) | Stanford University |
 | [Cynthia Breazeal](http://web.media.mit.edu/~cynthiab/) | Massachusetts Institute of Technology |
 | [Cyrill Stachniss](http://www.informatik.uni-freiburg.de/~stachnis/) | University of Freiburg |
