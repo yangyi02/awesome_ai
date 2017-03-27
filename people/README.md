@@ -45,7 +45,7 @@
 | [David Silver](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Home.html) | Google DeepMind |
 | [David Wipf](http://www.davidwipf.com/) | Microsoft |
 | [Derek Hoiem](http://www.cs.uiuc.edu/~dhoiem/) | University of Illinois at Urbana-Champaign |
-| [Deva Ramanan](http://www.ics.uci.edu/~dramanan/) | University of California Irvine |
+| [Deva Ramanan](https://www.cs.cmu.edu/~deva/) | Carnegie Mellon University |
 | [Devi Parikh](https://filebox.ece.vt.edu/~parikh/) | Virginia Polytechnic Institute and State University |
 | [Dragomir Anguelov](http://ai.stanford.edu/~drago/) | Google |
 | [Dumitru Erhan](http://www.dumitru.ca/) | Google |
@@ -124,7 +124,7 @@
 | [Sebastian Thrun](http://robots.stanford.edu/) | Stanford University |
 | [Serge Belongie](http://vision.cornell.edu/se3/people/serge-belongie/) | Cornell University |
 | [Sergey Ioffe](https://www.linkedin.com/pub/sergey-ioffe/1/882/175) | Google |
-| [Simon Baker](http://research.microsoft.com/en-us/people/sbaker/) | Microsoft |
+| [Simon Baker](https://scholar.google.com/citations?user=UcbjgQ0AAAAJ) | Nvidia |
 | [Songchun Zhu](http://www.stat.ucla.edu/~sczhu/) | University of California Los Angeles |
 | [Srinivasa Narasimhan](http://www.cs.cmu.edu/~srinivas/) | Carnegie Mellon University |
 | [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) | Australian National University |
