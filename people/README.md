@@ -21,14 +21,17 @@
 | [Ashutosh Saxena](http://www.cs.cornell.edu/~asaxena/) | Cornell University |
 | [Ben Taskar](http://homes.cs.washington.edu/~taskar/) | University of Pennsylvania |
 | [Bill Triggs](http://lear.Inrialpes.fr/people/triggs/) | INRIA |
+| [Bolei Zhou](http://people.csail.mit.edu/bzhou/) | MIT |
 | [Brian Curless](http://homes.cs.washington.edu/~curless/) | University of Washington |
 | [Ce Liu](http://people.csail.mit.edu/celiu/) | Microsoft Research New England |
 | [Chang Huang](https://www.linkedin.com/pub/chang-huang/47/188/834) | Baidu Research |
 | [Charless Fowlkes](http://www.ics.uci.edu/~fowlkes/) | University of California Irvine |
+| [Chen Sun](https://research.google.com/pubs/ChenSun.html) | Google |
 | [Chris Harrison](http://www.chrisharrison.net/index.php/Research/Welcome) | Carnegie Mellon University |
 | [Christian Szegedy](http://research.google.com/pubs/ChristianSzegedy.html) | Google Research |
 | [Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/) | Microsoft Research Cambridge |
 | [Christopher Manning](http://nlp.stanford.edu/manning/) | Stanford University |
+| [Christopher Olah](https://research.google.com/pubs/ChristopherOlah.html) | Google Research |
 | [Cynthia Breazeal](http://web.media.mit.edu/~cynthiab/) | Massachusetts Institute of Technology |
 | [Cyrill Stachniss](http://www.informatik.uni-freiburg.de/~stachnis/) | University of Freiburg |
 | [Dahua Lin](http://dahua.me/) | Chinese University of Hong Kong |
@@ -53,10 +56,13 @@
 | [Gerard Medioni](http://iris.usc.edu/people/medioni/) | University of Southern California |
 | [Greg Mori](http://www.cs.sfu.ca/~mori/) | Simon Fraster University |
 | [Haizhou Ai](http://media.cs.tsinghua.edu.cn/~ahz/) | Tsinghua University |
+| [Heiga Zen](https://research.google.com/pubs/HeigaZen.html) | Google |
 | [Honglak Lee](http://web.eecs.umich.edu/~honglak/) | University of Michigan |
-| [Ian Goodfellow](http://www-etud.iro.umontreal.ca/~goodfeli/) | Google Research |
+| [Ian Goodfellow](http://www.iangoodfellow.com/) | Google Brain |
 | [Ian Matthews](http://www.iainm.com/iainm/Home.html) | Disney Research |
+| [Ilya Sutskever](http://www.cs.toronto.edu/~ilya/) | OpenAI |
 | [Ivan Laptev](https://www.di.ens.fr/~laptev/) | INRIA |
+| [Jeffrey Dean](https://research.google.com/pubs/jeff.html) | Google Brain |
 | [Jia Deng](http://web.eecs.umich.edu/~jiadeng/) | University of Michigan |
 | [Jia Li](http://vision.stanford.edu/lijiali/) | Google |
 | [Jian Sun](http://www.jiansun.org/) | Face++ (Megvii Technology Ltd.) |
@@ -67,10 +73,13 @@
 | [Jiaya Jia](http://www.cse.cuhk.edu.hk/leojia/) | The Chinese University of Hong Kong |
 | [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/) | University of Rochester |
 | [Jitendra Malik](http://www.cs.berkeley.edu/~malik/) | University of California Berkeley |
+| [John Schulman](http://joschu.net/) | OpenAI |
 | [Jonathan Long](http://people.eecs.berkeley.edu/~jonlong/) | UC Berkeley |
 | [Josef Sivic](http://www.di.ens.fr/~josef/) | INRIA |
+| [Kevin Tang](http://ai.stanford.edu/~kdtang/) | Snapchat |
 | [Kai Yu](http://www.dbs.ifi.lmu.de/~yu_k/) | Baidu Research |
 | [Kaiming He](http://kaiminghe.com/) | Facebook AI Research (FAIR) |
+| [Kevin P. Murphy](https://research.google.com/pubs/KevinMurphy.html) | Google Research |
 | [Kristin Grauman](http://www.cs.utexas.edu/~grauman/) | University of Texas at Austin |
 | [Larry Davis](http://www.umiacs.umd.edu/~lsd/) | University of Maryland College Park |
 | [Larry Zitnick](http://research.microsoft.com/en-us/people/larryz/) | Microsoft Research |
@@ -91,9 +100,14 @@
 | [Mubarak Shah](http://crcv.ucf.edu/people/faculty/shah.html) | University of Central Florida |
 | [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/) | Oxford University & Google DeepMind |
 | [Olga Russakovsky](http://www.cs.cmu.edu/~orussako/) | Robotics Institute - Carnegie Mellon University |
+| [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html) | Google Research |
 | [Pedro Felzenszwalb](http://cs.brown.edu/~pff/) | Brown University |
+| [Pierre Sermanet](https://research.google.com/pubs/PierreSermanet.html) | Google |
+| [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) | UC Berkeley |
 | [Philip Torr](http://cms.brookes.ac.uk/staff/PhilipTorr/) | University of Oxford Brookes |
 | [Piotr Dollar](https://pdollar.github.io/) | Facebook AI Research |
+| [Quoc V. Le](http://cs.stanford.edu/~quocle/) | Google |
+| [Rahul Sukthankar](http://www.cs.cmu.edu/~rahuls/) | Google |
 | [Ram Nevatia](http://iris.usc.edu/people/nevatia/) | University of Southern California |
 | [Rama Chellappa](http://www.cfar.umd.edu/~rama/) | University of Maryland, College Park |
 | [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) | University of Toronto |
@@ -105,6 +119,7 @@
 | [Rong Jin](http://www.cse.msu.edu/~rongjin/) | Michigan State University |
 | [Ross Girshick](http://www.rossgirshick.info/) | Facebook AI Research (FAIR) |
 | [Ruslan Salakhutdinov](http://www.cs.toronto.edu/~rsalakhu/) | University of Toronto |
+| [Samy Bengio](https://research.google.com/pubs/bengio.html) | Google |
 | [Sebastian Thrun](http://robots.stanford.edu/) | Stanford University |
 | [Serge Belongie](http://vision.cornell.edu/se3/people/serge-belongie/) | Cornell University |
 | [Sergey Ioffe](https://www.linkedin.com/pub/sergey-ioffe/1/882/175) | Google Research |
@@ -118,11 +133,14 @@
 | [Takeo Kanade](http://www.ri.cmu.edu/person.html?person_id=136) | Carnegie Mellon University |
 | [Tamara Berg](http://www.tamaraberg.com/) | University of North Carolina at Chapel Hill |
 | [Thomas Huang](http://www.ece.illinois.edu/directory/profile.asp?t-huang1) | University of Illinois at Urbana-Champaign |
+| [Thomas K. Leung](https://research.google.com/pubs/ThomasLeung.html) | Google |
 | [Thorsten Joachim](http://www.cs.cornell.edu/People/tj/) | Cornell University |
 | [Tim Cootes](http://personalpages.manchester.ac.uk/staff/timothy.f.cootes/) | University of Manchester |
 | [Tom Mitchell](http://www.cs.cmu.edu/~tom/) | Carnegie Mellon University |
 | [Trevor Darrell](http://www.eecs.berkeley.edu/~trevor/) | University of California Berkeley |
 | [Trevor Hastie](http://www.stanford.edu/~hastie/) | Stanford University |
+| [Vijay Vasudevan](https://research.google.com/pubs/VijayVasudevan.html) | Google |
+| [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html) | Google |
 | [Vittorio Ferrari](http://homepages.inf.ed.ac.uk/vferrari/) | University of Edinburgh |
 | [Vladlen Koltun](http://vladlen.info/) | Intel Visual Computing Lab |
 | [Wei Xu](https://www.linkedin.com/in/emailweixu) | Baidu Research |
@@ -131,6 +149,7 @@
 | [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) | Chinese University of Hong Kong |
 | [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml) | Chinese University of Hong Kong |
 | [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/) | The Hebrew University of Jerusalem |
+| [Yang Song](https://research.google.com/pubs/author38270.html) | Google |
 | [Yang Wang](http://www.cs.umanitoba.ca/~ywang/) | University of Manitoba |
 | [Yangqing Jia](http://daggerfs.com/) | Google Research |
 | [Yann LeCun](http://yann.lecun.com/) | New York University |
