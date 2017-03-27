@@ -76,6 +76,7 @@
 | [John Schulman](http://joschu.net/) | OpenAI |
 | [Jonathan Long](http://people.eecs.berkeley.edu/~jonlong/) | UC Berkeley |
 | [Josef Sivic](http://www.di.ens.fr/~josef/) | INRIA |
+| [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) | Massachusetts Institute of Technology |
 | [Kevin Tang](http://ai.stanford.edu/~kdtang/) | Snapchat |
 | [Kai Yu](http://www.dbs.ifi.lmu.de/~yu_k/) | Baidu Research |
 | [Kaiming He](http://kaiminghe.com/) | Facebook AI Research (FAIR) |
