@@ -3,12 +3,13 @@ import urllib2
 
 template_lines = open('template.html').readlines()
 
-lines = open('ai_giants.md').readlines()
+lines = open('README.md').readlines()
 
 data = []
 for line in lines:
    if line.startswith('-'):
       pattern = re.findall(r'- \[(.*)\]\((.*)\) (.*)', line)
+      print(pattern)
       print('testing url: %s' % pattern[0][1])
       try:
          urllib2.urlopen(pattern[0][1])
