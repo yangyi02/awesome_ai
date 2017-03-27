@@ -1,5 +1,7 @@
 # Giants in Computer Vision and Machine Learning
 
+![Newton Picture](https://github.com/yangyi02/awesome_ai/blob/master/people/giant.png)
+
 Please check [ai_giants.md](https://github.com/yangyi02/awesome_ai/blob/master/people/ai_giants.md) for the list of giants in Computer Vision and Machine Learning.
 
 NOTE: This is simply a personal memory of the top Computer Vision and Machine Learning giants based on my own limited experience. Hence many top giants are not shown up in the list. 
