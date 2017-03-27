@@ -5,8 +5,10 @@
 - [Alexander Toshev](http://research.google.com/pubs/AlexanderToshev.html) Google Research
 - [Ali Farhadi](http://homes.cs.washington.edu/~ali/) University of Washington
 - [Alyosha Efros](http://www.cs.cmu.edu/~efros/) University of California Berkeley
+- [Andreas Geiger](http://www.cvlibs.net/) Max Planck Institute for Intelligent Systems
 - [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/) Stanford University
 - [Andrew Davison](http://www.doc.ic.ac.uk/~ajd/) Imperial College London
+- [Andrew Fitzgibbon](https://www.microsoft.com/en-us/research/people/awf/) Microsoft
 - [Andrew Ng](http://cs.stanford.edu/people/ang/) Stanford University
 - [Andrew Zisserman](http://www.robots.ox.ac.uk/~az/) University of Oxford
 - [Antonio Torralba](http://web.mit.edu/torralba/www/) Massachusetts Institute of Technology
@@ -31,6 +33,7 @@
 - [David Forsyth](http://luthuli.cs.uiuc.edu/~daf/) University of Illinois at Urbana-Champaign
 - [David Lowe](http://www.cs.ubc.ca/~lowe/) University of British Columbia
 - [David Silver](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Home.html) Google DeepMind
+- [David Wipf](http://www.davidwipf.com/) Microsoft Research 
 - [Derek Hoiem](http://www.cs.uiuc.edu/~dhoiem/) University of Illinois at Urbana-Champaign
 - [Deva Ramanan](http://www.ics.uci.edu/~dramanan/) University of California Irvine
 - [Devi Parikh](https://filebox.ece.vt.edu/~parikh/) Virginia Polytechnic Institute and State University
@@ -38,6 +41,7 @@
 - [Dumitru Erhan](http://www.dumitru.ca/) Google
 - [Eric Xing](http://www.cs.cmu.edu/~epxing/) Carnegie Mellon University
 - [Feifei Li](http://vision.stanford.edu/index.html) Stanford University
+- [Fernando De la Torre](http://www.cs.cmu.edu/~ftorre/index.html) Robotics Institute at CMU
 - [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) University of Toronto
 - [Gerard Medioni](http://iris.usc.edu/people/medioni/) University of Southern California
 - [Greg Mori](http://www.cs.sfu.ca/~mori/) Simon Fraster University
@@ -45,22 +49,31 @@
 - [Honglak Lee](http://web.eecs.umich.edu/~honglak/) University of Michigan
 - [Ian Goodfellow](http://www-etud.iro.umontreal.ca/~goodfeli/) Google Research
 - [Ian Matthews](http://www.iainm.com/iainm/Home.html) Disney Research
+- [Ivan Laptev](https://www.di.ens.fr/~laptev/) INRIA
 - [Jia Deng](http://web.eecs.umich.edu/~jiadeng/) University of Michigan
-- [Jian Sun](http://research.microsoft.com/en-us/people/jiansun/) Microsoft Research Asia
+- [Jia Li](http://vision.stanford.edu/lijiali/) Google
+- [Jian Sun](http://www.jiansun.org/) Face++ (Megvii Technology Ltd.)
 - [Jianbo Shi](http://www.cis.upenn.edu/~jshi/) University of Pennsylvania
 - [Jianchao Yang](http://www.ifp.illinois.edu/~jyang29/) Adobe Research
 - [Jiang Wang](http://users.eecs.northwestern.edu/~jwa368/) Baidu Research
 - [Jianxiong Xiao](http://www.cs.princeton.edu/~xj/) Princeton University
+- [Jiaya Jia](http://www.cse.cuhk.edu.hk/leojia/) The Chinese University of Hong Kong
 - [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/) University of Rochester
 - [Jitendra Malik](http://www.cs.berkeley.edu/~malik/) University of California Berkeley
+- [Jonathan Long](http://people.eecs.berkeley.edu/~jonlong/) UC Berkeley
+- [Josef Sivic](http://www.di.ens.fr/~josef/) INRIA
 - [Kai Yu](http://www.dbs.ifi.lmu.de/~yu_k/) Baidu Research
+- [Kaiming He](http://kaiminghe.com/) Facebook AI Research (FAIR)
 - [Kristin Grauman](http://www.cs.utexas.edu/~grauman/) University of Texas at Austin
 - [Larry Davis](http://www.umiacs.umd.edu/~lsd/) University of Maryland College Park
 - [Larry Zitnick](http://research.microsoft.com/en-us/people/larryz/) Microsoft Research
 - [Leonid Sigal](http://cs.brown.edu/~ls/) Disney Research
 - [Liefeng Bo](http://homes.cs.washington.edu/~lfb/) Amazon
+- [Lior Wolf](http://www.cs.tau.ac.il/~wolf/) Tel Aviv University
+- [Lubomir Bourdev](http://www.lubomir.org/) WaveOne
 - [Luc Van Gool](http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1) ETH Zurich
 - [Marc Pollefeys](http://www.inf.ethz.ch/personal/pomarc/) ETH Zurich
+- [Marc'Aurelio Ranzato](https://www.cs.toronto.edu/~ranzato/) Facebook AI Research 
 - [Mark Everingham](http://www.comp.leeds.ac.uk/me/) University of Leeds
 - [Martial Hebert](http://www.cs.cmu.edu/~hebert/) Carnegie Mellon University
 - [Max Welling](https://www.ics.uci.edu/~welling/) University of California Irvine
@@ -69,14 +82,20 @@
 - [Michael Maire](http://ttic.uchicago.edu/~mmaire/) Toyota Technological Institute at Chicago
 - [Mubarak Shah](http://crcv.ucf.edu/people/faculty/shah.html) University of Central Florida
 - [Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/) Oxford University & Google DeepMind
+- [Olga Russakovsky](http://www.cs.cmu.edu/~orussako/) Robotics Institute - Carnegie Mellon University
 - [Pedro Felzenszwalb](http://cs.brown.edu/~pff/) Brown University
 - [Philip Torr](http://cms.brookes.ac.uk/staff/PhilipTorr/) University of Oxford Brookes
 - [Piotr Dollar](https://pdollar.github.io/) Facebook AI Research
 - [Ram Nevatia](http://iris.usc.edu/people/nevatia/) University of Southern California
+- [Rama Chellappa](http://www.cfar.umd.edu/~rama/) University of Maryland, College Park
+- [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) University of Toronto
+- [René Vidal](http://cis.jhu.edu/~rvidal/) The Johns Hopkins University
+- [Richard Socher](http://www.socher.org/) Salesforce
 - [Richard Sutton](http://incompleteideas.net/sutton/) University of Alberta
 - [Richard Szeliski](http://research.microsoft.com/en-us/um/people/szeliski/) Microsoft Research
 - [Rob Fergus](http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php) New York University
 - [Rong Jin](http://www.cse.msu.edu/~rongjin/) Michigan State University
+- [Ross Girshick](http://www.rossgirshick.info/) Facebook AI Research (FAIR)
 - [Ruslan Salakhutdinov](http://www.cs.toronto.edu/~rsalakhu/) University of Toronto
 - [Sebastian Thrun](http://robots.stanford.edu/) Stanford University
 - [Serge Belongie](http://vision.cornell.edu/se3/people/serge-belongie/) Cornell University
@@ -85,6 +104,7 @@
 - [Songchun Zhu](http://www.stat.ucla.edu/~sczhu/) University of California Los Angeles
 - [Srinivasa Narasimhan](http://www.cs.cmu.edu/~srinivas/) Carnegie Mellon University
 - [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) Australian National University
+- [Steve Branson](http://www.vision.caltech.edu/~sbranson/) Caltech
 - [Subhransu Maji](http://people.cs.umass.edu/~smaji/) University of Massachusetts, Amherst
 - [Svetlana Lazebnik](http://www.cs.illinois.edu/homes/slazebni/) University of Illinois at Urbana-Champaign
 - [Takeo Kanade](http://www.ri.cmu.edu/person.html?person_id=136) Carnegie Mellon University
@@ -96,6 +116,7 @@
 - [Trevor Darrell](http://www.eecs.berkeley.edu/~trevor/) University of California Berkeley
 - [Trevor Hastie](http://www.stanford.edu/~hastie/) Stanford University
 - [Vittorio Ferrari](http://homepages.inf.ed.ac.uk/vferrari/) University of Edinburgh
+- [Vladlen Koltun](http://vladlen.info/) Intel Visual Computing Lab
 - [Wei Xu](https://www.linkedin.com/in/emailweixu) Baidu Research
 - [William Freeman](http://people.csail.mit.edu/billf/) Massachusetts Institute of Technology
 - [Xiaofeng Ren](http://homes.cs.washington.edu/~xren/) Amazon
@@ -110,6 +131,7 @@
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) University of Montreal
 - [Yuandong Tian](http://www.cs.cmu.edu/~./yuandong/) Facebook AI Research
 - [Yunchao Gong](http://www.unc.edu/~yunchao/) Facebook AI Research
+- [Yuri Boykov](http://www.csd.uwo.ca/faculty/yuri/) The University of Western Ontario
 - [Zhengyou Zhang](http://research.microsoft.com/en-us/um/people/zhang/) Microsoft Research
 - [Zhuowen Tu](http://pages.ucsd.edu/~ztu/) University of California San Diego
 - [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) University of Cambridge
