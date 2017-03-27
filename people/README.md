@@ -2,22 +2,6 @@
 
 ![Newton Picture](https://github.com/yangyi02/awesome_ai/blob/master/people/giant.png)
 
-NOTE: This is simply a personal memory of the top Computer Vision and Machine Learning giants based on my own limited experience. Hence many top giants are not shown up in the list. 
-
-In case of incorrect information, please feel free to modify [README.md](https://github.com/yangyi02/awesome_ai/blob/master/people/README.md) and provide a pull request. 
-
-# Awesome Google Scholar
-
-My list is a really narrow view of top researchers. [Google Scholar](https://scholar.google.com/) provides a full list of top scholars in each research area. 
-
-- [Computer Vision Giants](https://scholar.google.com/citations?mauthors=label%3Acomputer_vision&hl=en&view_op=search_authors)
-- [Machine Learning Giants](https://scholar.google.com/citations?mauthors=label%3Amachine_learning&hl=en&view_op=search_authors)
-- [Artificial Intelligence Giants](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:artificial_intelligence)
-- [Statistics Giants](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:statistics)
-- [Computer Science Giants](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science)
-
-# The List
-
 | Name | Affiliation |
 | ------------- | ----------- |
 | [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/) | Carnegie Mellon University |
@@ -158,3 +142,17 @@ My list is a really narrow view of top researchers. [Google Scholar](https://sch
 | [Zhengyou Zhang](http://research.microsoft.com/en-us/um/people/zhang/) | Microsoft Research |
 | [Zhuowen Tu](http://pages.ucsd.edu/~ztu/) | University of California San Diego |
 | [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) | University of Cambridge |
+
+NOTE: This is simply a personal memory of the top Computer Vision and Machine Learning giants based on my own limited experience. Hence many top giants are not shown up in the list. 
+
+In case of incorrect information, please feel free to modify [README.md](https://github.com/yangyi02/awesome_ai/blob/master/people/README.md) and provide a pull request. 
+
+# Awesome Google Scholar
+
+My list is a really narrow view of the top researchers. [Google Scholar](https://scholar.google.com/) provides a full list of top scholars in each research area. 
+
+- [Computer Vision Giants](https://scholar.google.com/citations?mauthors=label%3Acomputer_vision&hl=en&view_op=search_authors)
+- [Machine Learning Giants](https://scholar.google.com/citations?mauthors=label%3Amachine_learning&hl=en&view_op=search_authors)
+- [Artificial Intelligence Giants](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:artificial_intelligence)
+- [Statistics Giants](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:statistics)
+- [Computer Science Giants](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science)
