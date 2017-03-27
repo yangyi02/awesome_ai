@@ -7,9 +7,9 @@ lines = open('README.md').readlines()
 
 data = []
 for line in lines:
-   if line.startswith('-'):
-      pattern = re.findall(r'- \[(.*)\]\((.*)\) (.*)', line)
-      print(pattern)
+   if line.startswith('| ['):
+      # pattern = re.findall(r'- \[(.*)\]\((.*)\) (.*)', line)
+      pattern = re.findall(r'\| \[(.*)\]\((.*)\) \| (.*) \|', line)
       print('testing url: %s' % pattern[0][1])
       try:
          urllib2.urlopen(pattern[0][1])

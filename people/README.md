@@ -144,13 +144,13 @@
 | [Zhuowen Tu](http://pages.ucsd.edu/~ztu/) | University of California San Diego |
 | [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) | University of Cambridge |
 
-NOTE: This is simply a personal memory of the top Computer Vision and Machine Learning giants based on my own limited experience. Hence many top giants are not shown up in the list. 
+NOTE: This is simply a personal memory based on limited experience. Hence many top names are not shown up in the list. 
 
-In case of incorrect information, please feel free to modify [README.md](https://github.com/yangyi02/awesome_ai/blob/master/people/README.md) and provide a pull request. 
+In case of incorrect or outdated information, please feel free to modify [README.md](https://github.com/yangyi02/awesome_ai/blob/master/people/README.md) and provide a pull request. 
 
-# Awesome Google Scholar
+# Google Scholar
 
-My list is a really narrow view of the top researchers. [Google Scholar](https://scholar.google.com/) provides a full list of top scholars in each research area. 
+[Google Scholar](https://scholar.google.com/) provides a full list of top scholars in each research area. 
 
 - [Computer Vision Giants](https://scholar.google.com/citations?mauthors=label%3Acomputer_vision&hl=en&view_op=search_authors)
 - [Machine Learning Giants](https://scholar.google.com/citations?mauthors=label%3Amachine_learning&hl=en&view_op=search_authors)
