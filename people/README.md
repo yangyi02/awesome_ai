@@ -144,7 +144,7 @@
 | [Zhuowen Tu](http://pages.ucsd.edu/~ztu/) | University of California San Diego |
 | [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) | University of Cambridge |
 
-NOTE: This is simply a personal memory based on limited experience. Hence many top names are not shown up in the list. 
+NOTE: This is simply a personal memory based on limited experience. Hence many top names are not shown in the list. 
 
 In case of incorrect or outdated information, please feel free to modify [README.md](https://github.com/yangyi02/awesome_ai/blob/master/people/README.md) and provide a pull request. 
 
