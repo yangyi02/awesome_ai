@@ -148,6 +148,7 @@
 | [Xiaofeng Ren](http://homes.cs.washington.edu/~xren/) | Amazon |
 | [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) | Chinese University of Hong Kong |
 | [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml) | Chinese University of Hong Kong |
+| [Xiaoyu Wang](http://www.xiaoyumu.com/) | Snapchat |
 | [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/) | The Hebrew University of Jerusalem |
 | [Yang Song](https://research.google.com/pubs/author38270.html) | Google |
 | [Yang Wang](http://www.cs.umanitoba.ca/~ywang/) | University of Manitoba |
@@ -157,7 +158,7 @@
 | [Ying Wu](http://www.ece.northwestern.edu/~yingwu/) | Northwestern University |
 | [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) | University of Montreal |
 | [Yuandong Tian](http://www.cs.cmu.edu/~./yuandong/) | Facebook AI Research |
-| [Yunchao Gong](http://www.unc.edu/~yunchao/) | Facebook AI Research |
+| [Yunchao Gong](http://www.unc.edu/~yunchao/) | Snapchat |
 | [Yuri Boykov](http://www.csd.uwo.ca/faculty/yuri/) | The University of Western Ontario |
 | [Zhengyou Zhang](http://research.microsoft.com/en-us/um/people/zhang/) | Microsoft Research |
 | [Zhuowen Tu](http://pages.ucsd.edu/~ztu/) | University of California San Diego |
