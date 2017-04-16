@@ -155,6 +155,7 @@
 | [Yang Wang](http://www.cs.umanitoba.ca/~ywang/) | University of Manitoba |
 | [Yangqing Jia](http://daggerfs.com/) | Facebook |
 | [Yann LeCun](http://yann.lecun.com/) | New York University |
+| [Yee Whye Th](https://www.stats.ox.ac.uk/~teh/) | DeepMind |
 | [Yi Ma](http://yima.csl.illinois.edu/) | Microsoft |
 | [Ying Wu](http://www.ece.northwestern.edu/~yingwu/) | Northwestern University |
 | [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) | University of Montreal |
