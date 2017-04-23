@@ -297,3 +297,11 @@ Causality
 (Other) Statistics
 (Other) Robotics and Control
 Transfer Learning
+Moment Generating Function
+Neural Turing Machine
+Gradual Learning
+Compositional Learning
+Online Learning
+Additive Learning
+One-Shot Learning
+Predictions
